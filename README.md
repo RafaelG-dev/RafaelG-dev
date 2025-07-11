@@ -1,10 +1,12 @@
-### Hello, World! I'm Rafael
+## Hello, World! I'm Rafael! 👨🏾‍💻
 
 <img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/241e02d8-577d-4fc6-9374-8ccc04c2becc" />
 &nbsp;
 
 
-<p align="center">I ❤️ solve problems using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+- I solve problems using tech. 
+
+- RPA Developer passionate about creating ways to automatizate activities.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -54,7 +56,7 @@
 <div> 
 <a href="https://www.instagram.com/rafaelvianagomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.rafaelvianagomes2007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:rafaelvianagomes2007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-viana-gomes-2567672b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
